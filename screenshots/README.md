@@ -1,1 +1,1 @@
-this file contains images need for this lab
+this file contains images needed for this lab
