@@ -35,7 +35,7 @@ The objective was to analyze the memory image, identify evidence of compromise, 
 - OS: Windows 7 Professional SP1  
 - Logged in User: securityninja  
 
-![System Info](../screenshots/system-info.png)
+![System Info](./screenshots/system-info.png)
 
 ---
 
